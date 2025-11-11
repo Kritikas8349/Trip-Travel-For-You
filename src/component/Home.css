@@ -140,7 +140,6 @@ body {
   display: none;
   cursor: pointer;
   font-size: 1.8rem;
-  position: fixed;       /* stays on top and fixed position */
   right: 25px;
   z-index: 10000;        /* higher than menu box */
   color: white;          /* default color (for FaBars) */
