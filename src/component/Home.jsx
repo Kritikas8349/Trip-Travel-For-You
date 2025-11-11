@@ -11,7 +11,7 @@ export default function Home() {
 
   useEffect(() => {
     if (videoRef.current) {
-      videoRef.current.playbackRate = 0.4;
+      videoRef.current.playbackRate = 1;
     }
   }, []);
 
@@ -137,7 +137,7 @@ export default function Home() {
           loop
           playsInline
         >
-          <source src="travelvid.mp4" type="video/mp4" />
+          <source src="mainvid.mp4" type="video/mp4" />
         </video>
 
         {/* Navbar */}
