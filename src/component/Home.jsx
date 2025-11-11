@@ -137,7 +137,7 @@ export default function Home() {
           loop
           playsInline
         >
-          <source src="mainvid.mp4" type="video/mp4" />
+          <source src="finalvid.mp4" type="video/mp4" />
         </video>
 
         {/* Navbar */}
@@ -167,12 +167,6 @@ export default function Home() {
 
           {/* Right Side */}
           <div className="nav-right">
-          <button
-                  className="contact-btn"
-                  onClick={() => document.getElementById("contact").scrollIntoView({ behavior: "smooth" })}
-                >
-                  Contact Us
-                </button>
 
                 <button
                   className="contact-btn"
@@ -187,10 +181,11 @@ export default function Home() {
 
         {/* Hero Content */}
         <div className="hero-content">
+          <h1><span>Planning Your Own Travel ?</span></h1>
           <h1>
             Pack Your Bags, Let’s Go
             <br />
-            Somewhere Amazing
+            Somewhere Amazing.
           </h1>
           <p>
             Whether you’re chasing adventure, relaxation or something in
