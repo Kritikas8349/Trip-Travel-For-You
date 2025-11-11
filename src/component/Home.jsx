@@ -137,7 +137,7 @@ export default function Home() {
           loop
           playsInline
         >
-          <source src="home.mp4" type="video/mp4" />
+          <source src="travelvid.mp4" type="video/mp4" />
         </video>
 
         {/* Navbar */}
@@ -150,7 +150,7 @@ export default function Home() {
           {/* Hamburger Icon (Mobile) */}
           <div className="hamburger" onClick={() => setMenuOpen(!menuOpen)}>
             {menuOpen ? (
-              <FaTimes color="white" size={22} />
+              <FaTimes color="black" size={22} />
             ) : (
               <FaBars color="white" size={22} />
             )}
