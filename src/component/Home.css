@@ -326,7 +326,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px 30px 40px 30px;
+  padding: 80px 30px 40px 30px;
   background: #fff;
   flex-wrap: wrap;
   gap: 0;
@@ -1537,8 +1537,6 @@ body {
 
 
 
-
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@300;400;500;600&display=swap');
 
 .footer {
   background-color: #111;
