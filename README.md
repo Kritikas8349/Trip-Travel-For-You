@@ -23,18 +23,6 @@ The website helps visitors explore travel locations and connect with the travel 
 
 ---
 
-## 📦 How to Run Locally
-
-Clone the repository
-git clone (https://github.com/Kritikas8349/Trip-Travel-For-You)
-
-Open folder
-cd travel-website
-
-Open index.html in browser
-
----
-
 ## 🎯 Project Purpose
 This project was developed for a real client to create an online presence for their travel business and allow customers to explore services digitally.
 
