@@ -28,11 +28,6 @@ This project was developed for a real client to create an online presence for th
 
 ---
 
-## 🌐 Live Website
-(Add deployed link here)
-
----
-
 ## 👩‍💻 Author
 Kritika Singh  
 Frontend Developer | React & Java Learner
