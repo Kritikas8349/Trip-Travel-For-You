@@ -1,12 +1,50 @@
-# React + Vite
+# 🌍 Travel Explorer – Tourism Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive static travel website developed for a client to showcase tour packages, destinations and contact information.  
+The website helps visitors explore travel locations and connect with the travel agency.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Home landing page
+- Destination sections
+- Tour packages listing
+- About us section
+- Contact form UI
+- Mobile responsive design
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- React.js
+- CSS3
+- JavaScript
+- Responsive Design (Flexbox & Media Queries)
+
+---
+
+## 📦 How to Run Locally
+
+Clone the repository
+git clone (https://github.com/Kritikas8349/Trip-Travel-For-You)
+
+Open folder
+cd travel-website
+
+Open index.html in browser
+
+---
+
+## 🎯 Project Purpose
+This project was developed for a real client to create an online presence for their travel business and allow customers to explore services digitally.
+
+---
+
+## 🌐 Live Website
+(Add deployed link here)
+
+---
+
+## 👩‍💻 Author
+Kritika Singh  
+Frontend Developer | React & Java Learner
